@@ -75,11 +75,28 @@ Correctness in a money app isn't optional, so the project carries **800+ automat
 ---
 
 ## Screenshots
-<img width="1178" height="2392" alt="IMG_6017" src="https://github.com/user-attachments/assets/78989753-fc8c-494d-9e7b-89a2a88483b6" />
-<img width="1178" height="2380" alt="IMG_6016" src="https://github.com/user-attachments/assets/ad8a8d3e-e26f-442f-bc9f-41d7e07e8f38" />
-<img width="1178" height="2380" alt="IMG_6014" src="https://github.com/user-attachments/assets/dfe145c1-95bb-4df8-a8d0-47feae3420df" />
-<img width="1178" height="2380" alt="IMG_6012" src="https://github.com/user-attachments/assets/8a45ffea-fd4a-41c9-b6ee-bdc0cdc3a262" />
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78989753-fc8c-494d-9e7b-89a2a88483b6" alt="P&L overview" width="300"><br>
+      <em>All-time P&L breakdown</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ad8a8d3e-e26f-442f-bc9f-41d7e07e8f38" alt="Holdings view" width="300"><br>
+      <em>Holdings by asset</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dfe145c1-95bb-4df8-a8d0-47feae3420df" alt="OxAi Pro chat" width="300"><br>
+      <em>OxAi portfolio insights</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8a45ffea-fd4a-41c9-b6ee-bdc0cdc3a262" alt="Screenshot 4" width="300"><br>
+      <em>Caption here</em>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Note on access
