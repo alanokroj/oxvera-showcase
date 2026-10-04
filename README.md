@@ -75,8 +75,10 @@ Correctness in a money app isn't optional, so the project carries **800+ automat
 ---
 
 ## Screenshots
-
-_[2–3 screenshots of the live UI to go here — e.g. the dashboard, the portfolio view, and the AI assistant.]_
+<img width="1178" height="2392" alt="IMG_6017" src="https://github.com/user-attachments/assets/78989753-fc8c-494d-9e7b-89a2a88483b6" />
+<img width="1178" height="2380" alt="IMG_6016" src="https://github.com/user-attachments/assets/ad8a8d3e-e26f-442f-bc9f-41d7e07e8f38" />
+<img width="1178" height="2380" alt="IMG_6014" src="https://github.com/user-attachments/assets/dfe145c1-95bb-4df8-a8d0-47feae3420df" />
+<img width="1178" height="2380" alt="IMG_6012" src="https://github.com/user-attachments/assets/8a45ffea-fd4a-41c9-b6ee-bdc0cdc3a262" />
 
 ---
 
