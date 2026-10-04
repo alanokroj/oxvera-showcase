@@ -8,9 +8,9 @@ Oxvera gives everyday UK investors a single, honest picture of everything they o
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a45ffea-fd4a-41c9-b6ee-bdc0cdc3a262" alt="Screenshot 4" width="200">
+    <img src="https://github.com/user-attachments/assets/dfe145c1-95bb-4df8-a8d0-47feae3420df" alt="OxAi Pro chat" width="200">
   <img src="https://github.com/user-attachments/assets/ad8a8d3e-e26f-442f-bc9f-41d7e07e8f38" alt="Holdings view" width="200">
   <img src="https://github.com/user-attachments/assets/78989753-fc8c-494d-9e7b-89a2a88483b6" alt="P&L overview" width="200">
-  <img src="https://github.com/user-attachments/assets/dfe145c1-95bb-4df8-a8d0-47feae3420df" alt="OxAi Pro chat" width="200">
 </p>
 
 ---
